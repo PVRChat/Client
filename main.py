@@ -12,7 +12,7 @@ print(" |_|     \_/  |_| \_\\\\____|_| |_|\__,_|\__|  \____|_|_|\___|_| |_|\__|"
 print("                                                                      ")
 print()
 
-print("Set set server IP")
+print("Set server IP")
 IP = input()
 print("Set the server port or press ENTER for default")
 port = input()
@@ -46,6 +46,7 @@ def receive():
         try:
             message = client_socket.recv(1024).decode()
             if message:
+                print()
                 print(message)
         except:
             print("An error occurred.")
