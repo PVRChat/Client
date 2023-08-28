@@ -25,7 +25,7 @@ This project is a Python chat application that uses a central server to manage c
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.11
 
 ## Authors
 
