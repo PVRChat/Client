@@ -30,7 +30,6 @@ This project is a Python chat application that uses a central server to manage c
 ## Authors
 
 - [Zerbaib](https://github.com/Zerbaib)
-- [Guillaume](https://github.com/Guillaume0001)
 
 ## License
 
